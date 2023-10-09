@@ -24,6 +24,7 @@ msgpack==1.0.7
 multidict==5.1.0
 pyOpenSSL==21.0.0
 pyRFC3339==1.1
+PyJWT==2.2.0  # Specify a common version of PyJWT
 requests==2.25.1
 rsa==4.9
 SQLAlchemy==2.0.21
