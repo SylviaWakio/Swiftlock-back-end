@@ -1,3 +1,3 @@
 Authorization: gunicorn Authorization.app:app
-TransactionBackend: gunicorn "Transaction backend.app:app"
-ProductBackend: gunicorn "Product backend.app:app"
+Transaction backend: gunicorn "Transaction backend.app:app"
+product_backend: gunicorn "product_backend.app:app"
