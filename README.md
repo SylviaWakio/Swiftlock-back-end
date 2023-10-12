@@ -9,13 +9,13 @@ IMS  can be used to track a variety of different types of inventory,including ra
 ![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-11-27.png?raw=true)
 
 ## sign-up
-![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot from 2023-10-12 13-11-33.png?raw=true)
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-11-33.png?raw=true)
 
 ## product list
-![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot from 2023-10-12 13-45-41.png?raw=true)
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-45-41.png?raw=true)
 
 ## Transaction
-![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot from 2023-10-12 13-45-50.png?raw=true)
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-45-50.png?raw=true)
 
 ##  system Feature
 
