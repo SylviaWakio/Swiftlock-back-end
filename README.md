@@ -5,13 +5,9 @@ IMS  can be used to track a variety of different types of inventory,including ra
 
 
  ## Screenshots
- 
-  # "{ front page :https://front-end-maya.vercel.app/ }"
-## "{Sign-up page : https://front-end-maya.vercel.app/signup}"
-## "{ products list:https://front-end-maya.vercel.app/dashboard/productlist}"
-## "{ trasanctions :https://front-end-maya.vercel.app/dashboard/transactions }"
+## front page
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-11-27.png?raw=true)
 
-![alt text](https://previews.123rf.com/images/aprior/aprior1703/aprior170300039/73560723-cars-for-sale-stock-lot-row-car-dealer-inventory.jpg)
 
 ##  system Feature
 
