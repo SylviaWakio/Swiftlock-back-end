@@ -1,28 +1,65 @@
+ ## inventory management system
+This is a system application software that helps businesses track and manage their inventory levels.
 
-5. Access the app in your web browser at `http://localhost:5000.
+IMS  can be used to track a variety of different types of inventory,including raw materials,finished goods, and work-in progress .
 
-## Usage
 
-1. Create an account or log in to an existing one.
+ ## Screenshots
+## front page
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-11-27.png?raw=true)
 
-2. Start adding products to your inventory.
+## sign-up
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-11-33.png?raw=true)
 
-3. Organize products into categories for better management.
+## product list
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-45-41.png?raw=true)
 
-4. Use the search and filter features to find specific items quickly.
+## Transaction
+![alt text](https://github.com/SylviaWakio/Swiftlock-back-end/blob/dev/Screenshot%20from%202023-10-12%2013-45-50.png?raw=true)
 
-5. Generate reports to track inventory changes and trends.
+##  system Feature
 
-## Feature
-This is an inventory management system written in falsk 
- The local installation of flask `http://localhost:5000`.
-  Also the local installation of flask  is provided as "flask-masterr" which can be run as "python setup.py install". 
-  The project is run through "flask run".
-  I have provided way to extract the transaction info in a csv format as "data-extract.py".
-   The main page lists all the items. 
-   Clicking the name of any of the itmes will take you to the transaction page (Transfer/Return) page. 
-   Here clicking on Transfer/Return will take you to confirmation page providing you with the transaction number. 
-   The date of transcation is auto-added by the system as the present date.
-   Also by going to the flask admin page ("homepage/admin") will let you Create, Read, Update and Delete Items, Clients (supposed to receive or return items), Categories and Transactions.
-    Dont forward, back or reload pages as that may lead to redundant data. Also,search can be based on any of the components - Name, Category,No. of items, Item No. and it will work seamlessly.Transact by using buttons on the page only.
+Manage Users
+Add new user detail
+View, Update, and remove user information
+
+Manage Groups
+Add new group information
+View, Update, and remove group information
+
+Manage Brands
+Add new brand data
+View, Update, and remove brand information
+
+Manage Category
+Add new category information
+View, Update, and remove category information
+
+Manage Stores
+Add new store information
+View, Update, and remove stores information
+
+Manage Attributes
+Add new attribute information
+View, Update, and remove attributes information
+
+Manage Products
+Add new product information
+View, Update, and remove products information
+
+Manage Orders
+Add new order information
+View, Update, and remove orders information
+
+## Reports
+View total amount of sales represented on the graphical chart based on yearly.
+
+## Company
+Update the company information
+That includes company name, address, phone, message, vat charge, service charge and more..
+
+## Profile
+View the logged in user information
+Setting
+View, and Update logged in user information
 
