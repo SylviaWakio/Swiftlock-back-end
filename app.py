@@ -12,7 +12,7 @@ from models import db, Transaction, Product
 
 # creates Flask object
 app = Flask(__name__)
-CORS(app, origins=["https://front-end-maya.vercel.app", "http://localhost:3000"], methods=['GET', 'POST'], allow_headers=['Authorization', 'Content-Type', 'x-access-token'])
+CORS(app, origins=["https://front-end-maya.vercel.app", "http://localhost:3000"], methods=['GET', 'POST', 'PATCH', 'DELETE'], allow_headers=['Authorization', 'Content-Type', 'x-access-token'])
 app.config['SECRET_KEY'] = '02ce2781cc664fe9a03fa7b373935da6'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///Database.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
